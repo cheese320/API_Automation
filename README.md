@@ -8,6 +8,12 @@ Load api info from json, send request then verify the response.
 
 
 
+## gitclone
+
+git@github.com:cheese320/API_Automation.git
+
+
+
 ## Prerequisite
 
 1. python 3.7 or higher
@@ -18,8 +24,8 @@ Load api info from json, send request then verify the response.
 
 1. Base methods: ~/Base
 2. log setup: ~/log
-3. Test data : ~/db
-4. Test case: ~/TestSuits
+3. Test data (api info): ~/db
+4. Test cases: ~/TestSuits
 
 
 
