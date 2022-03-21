@@ -1,0 +1,38 @@
+[{
+  "geography":
+  {
+    "request" : "Post",
+    "endPoint" : "http://sch.api.moji.com/json/city/getAllCity?",
+    "Payload" : {"common":
+                    {"platform":"Android",
+                      "identifier":"",
+                      "app_version":"1009030402",
+                      "os_version":"26",
+                      "device":"FRD-AL00",
+                      "brand":"honor",
+                      "pid":"5057",
+                      "language":"CN",
+                      "uid":"678967691549212672",
+                      "uaid":"678967691826036736",
+                      "width":1080,
+                      "height":1792,
+                      "package_name":"com.moji.mjweather",
+                      "amp":"1647819404189",
+                      "locationcity":1,
+                      "current_city": 352,
+                      "token":"4c23dbad6b17e2fab5a0dcce4e700a17",
+                      "vip":"0",
+                      "oaid":"975af9f6-fa5e-d4d3-7ddf-fbffe76f344c",
+                      "giuid":"a894fffa98ea90e42b0a3ee57d86e1b4",
+                      "smid":"DUA2diZMY87Ta9Kn36br628VnvSpz-09Wi00",
+                      "security_request":0},
+                    "params":{"timestape":0}
+    }
+  },
+   "endPoint2":
+  {
+    "request" : "Get",
+    "endPoint" : "/test2",
+    "Payload" : ""
+  }
+}]
